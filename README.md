@@ -1,6 +1,6 @@
 # HR-ANALYTICS-DASHBOARD
 
-Power BI: HR Analytics Dashboard
+Power BI: END-TO-END Dashboard
 
 •	Data preparation and Data Cleaning 
 
